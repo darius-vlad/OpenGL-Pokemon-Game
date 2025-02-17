@@ -1,0 +1,13 @@
+# Blender 4.2.3 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl Pokemon
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Geodude_4_Pokemon_Diffuse.png
+map_Ks Pokemon_texture_specular_1.png
+map_Ns Pokemon_texture_Glossiness_1.png
+map_Bump -bm 1.000000 Pokemon_texture_normal_1.png
