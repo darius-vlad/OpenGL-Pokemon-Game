@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\Darius\source\repos\PG-Project\PG-Project\main.cpp(95,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Darius\source\repos\PG-Project\PG-Project\main.cpp(96,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Darius\source\repos\PG-Project\PG-Project\main.cpp(236,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Darius\source\repos\PG-Project\PG-Project\main.cpp(237,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Darius\source\repos\PG-Project\PG-Project\main.cpp(241,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Darius\source\repos\PG-Project\PG-Project\main.cpp(242,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Darius\source\repos\PG-Project\PG-Project\main.cpp(243,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Darius\source\repos\PG-Project\PG-Project\main.cpp(244,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Darius\source\repos\PG-Project\PG-Project\main.cpp(912,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Darius\source\repos\PG-Project\PG-Project\main.cpp(1061,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  PG-Project.vcxproj -> C:\Users\Darius\source\repos\PG-Project\x64\Debug\PG-Project.exe
